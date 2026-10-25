@@ -1,4 +1,4 @@
-# travel-website
+# tokytravel_visitpenguin
 
 2026 秋季拜訪企鵝：單一 HTML 旅行手帖。
 
@@ -6,12 +6,12 @@
 
 ## 啟用 GitHub Pages
 
-1. 開啟專案的 [Settings → Pages](https://github.com/clyin121-rgb/travel-website/settings/pages)。
+1. 開啟專案的 [Settings → Pages](https://github.com/clyin121-rgb/tokytravel_visitpenguin/settings/pages)。
 2. 在 **Build and deployment → Source** 選擇 **Deploy from a branch**。
 3. 選擇 **main** 與 **/(root)**，按 **Save**。
 4. 等待 GitHub 完成部署，Pages 頁面會顯示實際網站網址。
 
-預設網址為 `https://clyin121-rgb.github.io/travel-website/`，使用 GitHub 提供的網址不必購買網域。
+預設網址為 `https://clyin121-rgb.github.io/tokytravel_visitpenguin/`，使用 GitHub 提供的網址不必購買網域。
 
 ## 搜尋與公開範圍
 
