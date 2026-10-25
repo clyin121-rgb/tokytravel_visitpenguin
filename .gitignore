@@ -1,0 +1,12 @@
+# Older local copies contain private ticket information.
+/downloads/
+/paste-version.html
+/private/
+
+# Local credentials, dependencies and generated hosting files.
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+node_modules/
+.wrangler/
